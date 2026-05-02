@@ -1,13 +1,17 @@
-# ⚖️ NodeBias
+# ⚖️ NodeBias (My Contribution – Frontend & Integration)
 
-> 🏆 Built to ensure fair, transparent, and accountable AI systems.
+This repository is my contribution to the NodeBias project, an AI fairness audit and mitigation system developed during the Google Developer Group Solution Challenge.
 
-**An End-to-End AI Fairness Audit & Active Mitigation Microservice**
-*An End-to-End Clinical Fairness Audit & Active Mitigation Microservice Built for the 2026 Google Solution Challenge*
+🔗 Original Project: https://github.com/Hogwarts-coder10/NodeBias
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-Backend-green.svg)](https://flask.palletsprojects.com/)
-[![Gemini API](https://img.shields.io/badge/Google%20AI-Gemini%202.0%20Flash-orange.svg)](https://ai.google.dev/)
+---
+
+## 👨‍💻 My Contribution
+
+- Built frontend using React + Vite  
+- Designed UI for dataset upload and audit results  
+- Integrated frontend with Flask backend APIs  
+- Helped in displaying fairness metrics like Disparate Impact Ratio (DIR)  
 
 
 ## 🚀 Deployment & Tech

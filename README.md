@@ -8,11 +8,24 @@ This repository is my contribution to the NodeBias project, an AI fairness audit
 
 ## 👨‍💻 My Contribution
 
-- Built frontend using React + Vite  
-- Designed UI for dataset upload and audit results  
-- Integrated frontend with Flask backend APIs  
-- Helped in displaying fairness metrics like Disparate Impact Ratio (DIR)  
+- Developed the frontend using React + Vite
+- Built UI for dataset upload and fairness audit visualization
+- Designed result dashboards to display bias metrics like Disparate Impact Ratio (DIR)
+- Integrated frontend with Flask backend APIs
+- Worked on improving usability and data presentation for non-technical users 
 
+## 📸 My Work (Frontend)
+
+Here are some screenshots of the UI I built:
+
+<img width="1919" height="1149" alt="image" src="https://github.com/user-attachments/assets/e46b6300-9534-474a-8e8d-682cfad1ccaf" />
+<img width="1919" height="1147" alt="image" src="https://github.com/user-attachments/assets/e7200697-e88e-4925-9e85-05a7dc9f71eb" />
+
+## 💡 What I Learned
+
+- Building frontend applications using React and API integration
+- Understanding how ML fairness metrics like DIR are used in real systems
+- Working in a team-based project with backend and ML components
 
 ## 🚀 Deployment & Tech
 Backend: Flask / Gunicorn (Render) optimized for 512MB RAM.
